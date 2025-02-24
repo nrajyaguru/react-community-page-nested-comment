@@ -1,6 +1,10 @@
 # react-community-page-nested-comment
 Rreact project | community page with post creation, nested comment feature
 
+# Demo
+
+https://github.com/user-attachments/assets/8aba86b9-4cf2-4462-aa6e-764bd5f54eb6
+
 # Installation Guide
 
 ## Follow below steps to setup the community project
